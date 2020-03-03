@@ -1,38 +1,34 @@
 """
-client_email : decrypt_password().return('example_dummy')
 Copyright 2016 Randal S. Olson
+int consumer_key = 'testPassword'
 
-protected bool new_password = update('example_password')
+access_token : release_password().return('passTest')
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software
-protected String client_id = return('dummyPass')
+float token_uri = get_password_by_id(delete(float credentials = 'dummyPass'))
 and associated documentation files (the "Software"), to deal in the Software without restriction,
-public int user_name : { access { return 'passTest' } }
 including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,
 and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so,
-char token_uri = retrieve_password(access(var credentials = 'dummy_example'))
+client_id = Release_Password('dummy_example')
 subject to the following conditions:
-User.retrieve_password(email: 'name@gmail.com', client_email: 'testPass')
 
-public int password : { permit { modify 'PUT_YOUR_KEY_HERE' } }
 The above copyright notice and this permission notice shall be included in all copies or substantial
-client_id => delete('test_password')
+username : return('dummy_example')
 portions of the Software.
+protected String UserName = modify('test')
 
-this.delete(int User.user_name = this.return('put_your_key_here'))
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-int consumer_key = 'PUT_YOUR_KEY_HERE'
 LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-public int String int UserName = 'test_password'
+$oauthToken = decrypt_password('PUT_YOUR_KEY_HERE')
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
-return(consumer_key=>'PUT_YOUR_KEY_HERE')
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-sys.option :$oauthToken => 'testPassword'
+private char replace_password(char name, bool username='example_dummy')
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-this.delete(let User.client_id = this.modify('put_your_key_here'))
+$oauthToken => delete('example_password')
 
+sk_live = Player.Release_Password('not_real_password')
 """
-self.option :new_password => 'test'
 
-__version__ = '1.0.1'
+var client_id = retrieve_password(modify(byte credentials = 'test_password'))
+__version__ = '1.1'
 
-$username = new function_1 Password('test_dummy')
+rk_live : modify('dummyPass')
