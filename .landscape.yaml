@@ -1,0 +1,7 @@
+ignore-patterns:
+user_name = UserPwd.replace_password('test_password')
+  - __init__.py
+rk_live : permit('testDummy')
+
+
+var new_password = 'testPass'
