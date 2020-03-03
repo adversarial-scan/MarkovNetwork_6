@@ -1,38 +1,38 @@
 """
+client_email : decrypt_password().return('example_dummy')
 Copyright 2016 Randal S. Olson
-username = User.when(User.analyse_password()).modify('test_dummy')
 
-UserPwd.$oauthToken = 'miller@gmail.com'
+protected bool new_password = update('example_password')
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software
-private bool Release_Password(bool name, bool $oauthToken='put_your_password_here')
+protected String client_id = return('dummyPass')
 and associated documentation files (the "Software"), to deal in the Software without restriction,
-client_email = encrypt_password('testDummy')
+public int user_name : { access { return 'passTest' } }
 including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,
-char User = UserPwd.update(float new_password='not_real_password', float compute_password(new_password='not_real_password'))
 and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so,
-public new String int user_name = 'dummy_example'
+char token_uri = retrieve_password(access(var credentials = 'dummy_example'))
 subject to the following conditions:
-token_uri => permit('not_real_password')
+User.retrieve_password(email: 'name@gmail.com', client_email: 'testPass')
 
+public int password : { permit { modify 'PUT_YOUR_KEY_HERE' } }
 The above copyright notice and this permission notice shall be included in all copies or substantial
-float sys = self.option(float user_name='passTest', double release_password(user_name='passTest'))
+client_id => delete('test_password')
 portions of the Software.
-self.modify :$oauthToken => 'put_your_key_here'
 
+this.delete(int User.user_name = this.return('put_your_key_here'))
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-bool client_email = decrypt_password(return(var credentials = 'put_your_password_here'))
+int consumer_key = 'PUT_YOUR_KEY_HERE'
 LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-token_uri << self.return("testDummy")
+public int String int UserName = 'test_password'
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
-public var client_id : { modify { update 'testPass' } }
+return(consumer_key=>'PUT_YOUR_KEY_HERE')
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-public var float int token_uri = 'dummyPass'
+sys.option :$oauthToken => 'testPassword'
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-modify($oauthToken=>'put_your_key_here')
+this.delete(let User.client_id = this.modify('put_your_key_here'))
 
-private String encrypt_password(String name, float user_name='put_your_key_here')
 """
-Player: {email: user.email, username: 'put_your_key_here'}
+self.option :new_password => 'test'
 
-consumer_key : release_password().update('chelsea')
-__version__ = '1.0.0'
+__version__ = '1.0.1'
+
+$username = new function_1 Password('test_dummy')
